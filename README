@@ -1,0 +1,26 @@
+## AI Login Anomaly Detector
+
+### Problem
+...
+
+### Solution
+...
+
+### Tech Stack
+...
+
+### How It Works
+1. Simulated login data
+2. Feature encoding
+3. Isolation Forest detection
+4. AI-generated explanation
+
+### Trade-offs
+- Simulated data
+- Country encoding simplification
+- False positives possible
+
+### Future Improvements
+- Real-time streaming
+- User behavior baselines
+- SOC alert integration
